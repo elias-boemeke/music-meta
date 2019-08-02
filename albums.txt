@@ -3,16 +3,30 @@
 
 
 ## albums
+[Angerfist]
+[dl]
+[Dubstep]
 [House & Trap]
+[Joe Ford - Mix [MIXMAG]]
 [Metal]
+[Modern Favs]
+[Moonman]
 [Noise Explorer/Brazilian Bass & Groove & Deep House]
 [Noise Explorer/Classic Rap & Hip Hop]
 [Noise Explorer/Future House]
 [Noise Explorer/House & Deep House]
 [Noise Explorer/Melodic Chill Deep House]
-[Psytrance]
-[Songs]
+[Oldschool Favs]
+[OST/Bastion - OST]
+[OST/Super Meat Boy - OST]
+[OST/The End is Nigh - OST]
+[OST/The Swapper - OST]
+[OST/Transistor - OST]
+[Popular]
+[Psytrance/V.A. - Set: 31]
 [Speedcore]
+[Synth Wave]
+[Trap]
 [UKF Drum & Bass/2012]
 [UKF Drum & Bass/2013]
 [UKF Drum & Bass/2014]
@@ -27,9 +41,55 @@
 [UKF Dubstep/2016]
 [UKF Dubstep/2017]
 [UKF Dubstep/2018]
+[Unsorted]
+[Vee Ja Lyfe]
 
 
 ## songs
+[Angerfist]
+Angerfist - And Jesus Wept (Switch Technique Remix).m4a
+Angerfist - Bite Yo Style.opus
+Angerfist - Buckle Up And Kill.opus
+Angerfist - Conspiracy.opus
+Angerfist - Dance With The Wolves (Randy & Radium Remix).opus
+Angerfist & D Spirit - Smoke Yo Momma.opus
+Angerfist - Fuck The Promqueen (Remastered 2011 Edit).opus
+Angerfist - Guts Full Of Lead.m4a
+Angerfist & Hellsystem - Dreams.opus
+Angerfist - In A Million Years (Nosferatu Remix).opus
+Angerfist - Incoming.m4a
+Angerfist - Looking To Survive.opus
+Angerfist - Mafia.opus
+Angerfist & Outblast - Odious.opus
+Angerfist & Radium - Assault.m4a
+Angerfist - Right Through Your Head.opus
+Angerfist - Riotstarter.opus
+Angerfist & Tieum - Just Know.m4a
+Angerfist & Tieum - Shitty Rave Track.opus
+Angerfist - Who Cares.opus
+Angerfist - Yes (Znooptokkie Drokz Remix).m4a
+Kid Morbid - Chocolate Milk.opus
+Predator & Angerfist - Legend.opus
+Roland & Sherman - Somewhere Down The Lane.opus
+
+[dl]
+dubstep.txt
+random_songs.txt
+trap_songs.txt
+
+[Dubstep]
+Barely Alive - Dead Link.opus
+Ephixa - Awesome To The Max.opus
+Ephixa - Dubstep Killed Rock 'n' Roll.m4a
+Ephixa - Song Of Storms.opus
+Foxsky - Kirby Smash.opus
+Knife Party - Bonfire.opus
+NOMA - Brain Power.opus
+SKisM - Rave Review (ak9 Remix).opus
+Skrillex & Damian 'Jr. Gong' Marley - Make It Bun Dem.opus
+Skrillex feat. Sirah - Bangarang.opus
+Spag Heddy - Prologue.opus
+
 [House & Trap]
 Aaron Smith - Dancin (Krono Remix).opus
 Aero Chord - Surface.opus
@@ -56,20 +116,61 @@ Martin Garrix - Animals.opus
 Martin Solveig & GTA - Intoxicated.opus
 Moby - Lift Me Up (Akimoto Bootleg).m4a
 Razihel & Aero Chord - Titans.opus
-SCNDL - The Munsta (Nitro Fun Remix) [Premiere].m4a
+SCNDL - The Munsta (Nitro Fun Remix).m4a
 SCNDL - The Munsta.opus
 Sean Paul - Get Busy (Loutaa 2 A.M Remix).opus
 Sipha - Your Love.m4a
 SNBRN feat. Kaleena Zanders - California (Chris Lake & Matroda Remix).opus
-Tchami - After Life (Feat. Stacy Barthe).opus
+Tchami feat. Stacy Barthe - After Life.opus
 The Golden Boy - Taking Me.opus
 Twenty One Pilots - Stressed Out (Stephen Murphy Remix).opus
 Vato Gonzalez - U Name It Riddim (Beans, Greens, Potatoes...).opus
 Vivian Z Quan & Xan - Rage.opus
 Yotto - Slowly.opus
 
+[Joe Ford - Mix [MIXMAG]]
+01 - Andy C - Haunting.opus
+02 - Joe Ford - Stride.opus
+03 - Maztek - Limber.m4a
+04 - Noisia - Deception.opus
+06 - Noisia ft. Foreign Beggars - Shellshock.opus
+07 - Black Sun Empire & Eye-D - Brainfreeze (Neonlight Remix).opus
+08 - Joe Ford - Behemoth.opus
+09 - Noisia & The Upbeats - Dustup.opus
+10 - Insideinfo & Mefjus - Mythos.opus
+11 - Joe Ford - Instrument.opus
+12 - Noisia - Stigma.opus
+13 - Alex Centra - Collide.opus
+14 - Noisia - Tryhard.opus
+15 - Rido & Hybris - First Contact.opus
+16 - Teddy Killerz & N-Phonix - Scary.opus
+17 - Misanthrop - Greed Of Gain.opus
+18 - Noisia & Phace - Program.opus
+19 - Icicle - Anxious.opus
+20 - Teddy Killerz - Violence.opus
+21 - NickBee - Third Entity.opus
+Joe Ford - Mix [MIXMAG].m4a
+
 [Metal]
 Disturbed - Down with the Sickness.opus
+
+[Modern Favs]
+009 Sound System - Dreamscape.m4a
+Approaching Nirvana - No Strings Attached.m4a
+C-Bool - MBrother Trebles.opus
+Daler Mehndi - Tunak Tunak Tun.opus
+El Profesor - Bella Ciao (HUGEL Remix).opus
+Heath Morris - Pirates of the Caribbean (Techno Trance Remix).opus
+Icke & Er - Richtig geil.opus
+Jay Rock - When the lights turn (Turn off the light).opus
+Kevin Rudolf feat. Lil Wayne - Let It Rock.opus
+Manuel - Gas Gas Gas.opus
+Rémi Gallego - Malware Injection.opus
+The Glitch Mob - Fortune Days.opus
+Zombie Nation - Kernkraft 400.opus
+
+[Moonman]
+Moonman - Fourty One Niggers and One Dune Coon.opus
 
 [Noise Explorer/Brazilian Bass & Groove & Deep House]
 #1 Brazilian Bass & Groove & Deep House Mix.opus
@@ -141,21 +242,222 @@ Disturbed - Down with the Sickness.opus
 #19 Melodic Chill Deep House Mix.opus
 #20 Melodic Chill Deep House Mix.opus
 
-[Psytrance]
-Altus - Cool Robot.opus
-Astrix - Deep Jungle Walk.opus
+[Oldschool Favs]
+Dio - Holy Diver.opus
+Dolly Parton - Jolene.opus
+Eiffel 65 - Blue (Da Ba Dee).opus
+Kansas - Carry On Wayward Son.opus
+Kansas - Dust in the Wind.opus
+Kraftwerk - Wir Sind die Roboter.opus
+Primus - John the Fisherman.opus
+Rockwell - Somebody's Watching Me.opus
+Scatman John - Scatman (ski-ba-bop-ba-dop-bop).opus
 
-[Songs]
-Big Shaq - Mans Not Hot.opus
-Ephixa - Song Of Storms.opus
-Rammstein - Radio.opus
-Stefan Rauch feat. Petutschnig Hons - 15er Steyr.opus
-Zombie Nation - Kernkraft 400.opus
-Нейромонах Феофан — Притоптать.opus
+[OST/Bastion - OST]
+01 - Darren Korb - Get Used To It (Bastion).opus
+02 - Darren Korb - A Proper Story (Bastion).opus
+03 - Darren Korb - In Case Of Trouble (Bastion).opus
+04 - Darren Korb - Bynn The Breaker (Bastion).opus
+05 - Darren Korb - The Sole Regret (Bastion).opus
+06 - Darren Korb - Twisted Streets (Bastion).opus
+07 - Darren Korb - Terminal March (Bastion).opus
+08 - Darren Korb - Percy's Escape (Bastion).opus
+09 - Darren Korb - Faith Of Jevel (Bastion).opus
+10 - Darren Korb - Mine, Windbag, Mine (Bastion).opus
+11 - Darren Korb - Slinger's Song (Bastion).opus
+12 - Darren Korb - Build That Wall (Zia's Theme) (Bastion).m4a
+13 - Darren Korb - Spike In A Rail (Bastion).opus
+14 - Darren Korb - What's Left Undone (Bastion).m4a
+15 - Darren Korb - Brusher Patrol (Bastion).opus
+16 - Darren Korb - The Mancer's Dilemma (Bastion).opus
+17 - Darren Korb - Mother, I'm Here (Zulf's Theme) (Bastion).m4a
+18 - Darren Korb - Pale Watchers (Bastion).opus
+19 - Darren Korb - The Bottom Feeders (Bastion).opus
+20 - Darren Korb - From Wharf To Wilds (Bastion).opus
+21 - Darren Korb - Setting Sail, Coming Home (End Theme) (Bastion).opus
+22 - Darren Korb - The Pantheon (Ain't Gonna Catch You) (Bastion).m4a
+Darren Korb - Bastion OST [FULL].opus
+
+[OST/Super Meat Boy - OST]
+01 - Danny Baranowsky - Boy Meats Girl (Intro Movie) (Super Meat Boy).opus
+02 - Danny Baranowsky - Super Meat Boy! (Main Theme) (Super Meat Boy).opus
+03 - Danny Baranowsky - Forest Funk (Ch 1 Light World) (Super Meat Boy).opus
+04 - Danny Baranowsky - Ballad of the Burning Squirrel (Ch 1 Dark World) (Super Meat Boy).opus
+05 - Danny Baranowsky - The Battle of Lil' Slugger (Ch 1 Boss) (Super Meat Boy).opus
+06 - Danny Baranowsky - Betus Blues (Ch 2 Light World) (Super Meat Boy).opus
+07 - Danny Baranowsky - C.H.A.D.'s Broken Wind (Ch 2 Dark World) (Super Meat Boy).opus
+08 - Danny Baranowsky - C.H.A.D.'s Lullaby (Ch 2 Boss) (Super Meat Boy).opus
+09 - Danny Baranowsky - Can o' Salt (Ch 3 Light World) (Super Meat Boy).opus
+10 - Danny Baranowsky - Rocket Rider (Ch 3 Dark World) (Super Meat Boy).opus
+11 - Danny Baranowsky - Fast Track to Browntown (Ch 3 Boss) (Super Meat Boy).opus
+12 - Danny Baranowsky - Hot Damned (Ch 4 Light World) (Super Meat Boy).opus
+13 - Danny Baranowsky - Devil N' Bass (Ch 4 Dark World) (Super Meat Boy).opus
+14 - Danny Baranowsky - Meat Golem (Ch 4 Boss) (Super Meat Boy).opus
+15 - Danny Baranowsky - It Ends (Ch 5 Light World) (Super Meat Boy).opus
+16 - Danny Baranowsky - Dr. Fetus' Castle (Ch 5 Dark World) (Super Meat Boy).opus
+17 - Danny Baranowsky - Larries' Lament (Ch 5 Boss) (Super Meat Boy).opus
+18 - Danny Baranowsky - It Ends 2: End Harder (Ch 6 Levels) (Super Meat Boy).opus
+19 - Danny Baranowsky - Carmeaty Burana (Ch 6 Boss) (Super Meat Boy).opus
+20 - Danny Baranowsky - Escape! (Super Meat Boy).opus
+21 - Danny Baranowsky - End Credits (Super Meat Boy).opus
+22 - Danny Baranowsky - McLarty Party People (Ch 7 Levels) (Super Meat Boy).opus
+23 - Danny Baranowsky - Meat Spin (Teh Internets Levels) (Super Meat Boy).opus
+24 - Danny Baranowsky - Forest Funk RETRO (Ch 1 Warp Zone) (Super Meat Boy).opus
+25 - Danny Baranowsky - Betus Blues RETRO (Ch 2 Warp Zone) (Super Meat Boy).opus
+26 - Danny Baranowsky - Can o' Salt RETRO (Ch 3 Warp Zone) (Super Meat Boy).opus
+27 - Danny Baranowsky - Hot Damned RETRO (Ch 4 Warp Zone) (Super Meat Boy).opus
+28 - Danny Baranowsky - It Ends RETRO (Ch 5 Warp Zone) (Super Meat Boy).opus
+29 - Danny Baranowsky - mAEt b0y (REMIX) (Super Meat Boy).opus
+30 - Danny Baranowsky - Spoiled R0TT3N (Meat Spin Remix) (Super Meat Boy).opus
+31 - Mattias Häggström Gerdt - MATTIAS' MANMEAT MIX (REMIX) (Super Meat Boy).opus
+32 - George "Android-Music" Dziov - Metal Meat (REMIX) (Super Meat Boy).opus
+33 - Inverse Phase - Boss Burger N' Chips (REMIX) (Super Meat Boy).opus
+34 - C418 - Meatcraft (REMIX) (Super Meat Boy).opus
+35 - Josh Whelchel (feat. Melinda Hershey) - Power of the Meat (REMIX) (Super Meat Boy).opus
+36 - Danny Baranowsky - It Ends with a Whimper (Super Meat Boy).m4a
+37 - Danny Baranowsky - Trailer Intro (Super Meat Boy).opus
+38 - Danny Baranowsky - Meat Boy (Flash) - Title (Super Meat Boy).opus
+39 - Danny Baranowsky - World Map Theme (Super Meat Boy).opus
+40 - Danny Baranowsky - Meat Fighter II (Super Meat Boy).opus
+41 - Danny Baranowsky - Dun Dun Dun!!! (Super Meat Boy).opus
+42 - Danny Baranowsky - Chapter 1 Menus (Super Meat Boy).opus
+43 - Danny Baranowsky - Meat Boy (Flash) - Forest (Super Meat Boy).opus
+
+[OST/The End is Nigh - OST]
+01 - Ridiculon - Title Screen (The End is Nigh).opus
+02 - Ridiculon - The End (The End is Nigh).opus
+03 - Ridiculon - The Arid Flats (The End is Nigh).opus
+04 - Ridiculon - Overflow (The End is Nigh).opus
+05 - Ridiculon - Wall of Sorrow (The End is Nigh).opus
+06 - Ridiculon - SS Exodus (The End is Nigh).opus
+07 - Ridiculon - Retrograde (The End is Nigh).opus
+08 - Ridiculon - The Machine (The End is Nigh).opus
+09 - Ridiculon - The Hollows (The End is Nigh).opus
+10 - Ridiculon - Golgotha (The End is Nigh).opus
+11 - Ridiculon - Ruin (The End is Nigh).opus
+12 - Ridiculon - Acceptance (The End is Nigh).opus
+13 - Ridiculon - The Future (The End is Nigh).opus
+14 - Ridiculon - As Above (The End is Nigh).opus
+15 - Ridiculon - So Below (The End is Nigh).opus
+16 - Ridiculon - Mortaman (The End is Nigh).opus
+17 - Ridiculon - Blaster Massacre (The End is Nigh).opus
+18 - Ridiculon - River City Rancid (The End is Nigh).opus
+19 - Ridiculon - Catastrovania (The End is Nigh).opus
+20 - Ridiculon - Dig Dead (The End is Nigh).m4a
+21 - Ridiculon - Ash Climber (The End is Nigh).opus
+22 - Ridiculon - Fallen Fantasy (The End is Nigh).opus
+23 - Ridiculon - Rubble Bobble (The End is Nigh).m4a
+24 - Ridiculon - Morbid Gear (The End is Nigh).m4a
+25 - Ridiculon - Mystery Castle (The End is Nigh).m4a
+26 - Ridiculon - The Tower (The End is Nigh).opus
+27 - Ridiculon - The End is Nigh (The End is Nigh).opus
+28 - Ridiculon - Scab or Die (The End is Nigh).m4a
+29 - Ridiculon - Tombs & Torture (The End is Nigh).m4a
+30 - Ridiculon - Pus Man (The End is Nigh).m4a
+31 - Ridiculon - Ghosts N' Grieving (The End is Nigh).m4a
+32 - Ridiculon - Dead Racer (The End is Nigh).m4a
+33 - Ridiculon - Spike Tales (The End is Nigh).m4a
+34 - Ridiculon - The End is Nigh Revisit (The End is Nigh).m4a
+35 - Ridiculon - Cart Menu (The End is Nigh).m4a
+36 - Ridiculon - Ride of the Valkyries (BONUS) (The End is Nigh).opus
+37 - Ridiculon - The End is Nigh (BONUS BONUS) (The End is Nigh).m4a
+Ridiculon - The End is Nigh OST [FULL].opus
+
+[OST/The Swapper - OST]
+01 - Carlo Castellano - Theme (The Swapper).m4a
+02 - Carlo Castellano - Intro (The Swapper).m4a
+03 - Carlo Castellano - Cave (The Swapper).opus
+04 - Carlo Castellano - Greenhouse (The Swapper).m4a
+05 - Carlo Castellano - Specimen (The Swapper).m4a
+06 - Carlo Castellano - Recreation (The Swapper).opus
+07 - Carlo Castellano - Sleep (The Swapper).opus
+08 - Carlo Castellano - Observatory (The Swapper).m4a
+09 - Carlo Castellano - Xeno (The Swapper).m4a
+10 - Carlo Castellano - Metaphysics (The Swapper).opus
+11 - Carlo Castellano - Solar (The Swapper).m4a
+12 - Carlo Castellano - Alt Theme A (The Swapper).m4a
+13 - Carlo Castellano - Alt Theme B (The Swapper).m4a
+Carlo Castellano - The Swapper OST [FULL].opus
+
+[OST/Transistor - OST]
+01 - Darren Korb - Old Friends (Transistor).opus
+02 - Darren Korb - Forecast (Transistor).opus
+03 - Darren Korb - Stained Glass (Transistor).opus
+04 - Darren Korb - Vanishing Point (Transistor).opus
+05 - Darren Korb - Coasting (Transistor).opus
+06 - Darren Korb - The Spine (Transistor).opus
+07 - Darren Korb - Heightmap (Transistor).opus
+08 - Darren Korb - Gold Leaf (Transistor).opus
+09 - Darren Korb - In Circles (Transistor).opus
+10 - Darren Korb - Cut Apart (Transistor).opus
+11 - Darren Korb - Water Wall (Transistor).opus
+12 - Darren Korb - Traces (Transistor).opus
+13 - Darren Korb - Interlace (Transistor).opus
+14 - Darren Korb - We All Become (Transistor).opus
+15 - Darren Korb - Sandbox (Transistor).opus
+16 - Darren Korb - Gateless (Transistor).opus
+17 - Darren Korb - Apex Beat (Transistor).opus
+18 - Darren Korb - Dormant (Transistor).opus
+19 - Darren Korb - Paper Boats (Transistor).opus
+20 - Darren Korb - Blank Canvas (Transistor).opus
+21 - Darren Korb - Impossible (Transistor).opus
+22 - Darren Korb - Signals (Transistor).opus
+23 - Darren Korb - Tangent (Transistor).opus
+Darren Korb - Transistor OST [FULL].opus
+
+[Popular]
+2 Unlimited - No Limit.m4a
+Alcazar - Crying At The Discoteque.opus
+Alphaville - Big In Japan.opus
+Alphaville - Forever Young.opus
+Bloodhound Gang - The Bad Touch.m4a
+Corona - Rhythm of the Night.opus
+Disclosure feat. Eliza Doolittle - You & Me (Flume Remix).opus
+Dynoro & Gigi D’Agostino - In My Mind.opus
+Evanescence - Bring Me To Life.opus
+Falco - Der Kommissar.opus
+Haddaway - What Is Love.m4a
+Men Without Hats - Safety Dance.opus
+Pet Shop Boys - It's A Sin.opus
+Scarface - Push It To The Limit.opus
+Sean Paul - Temperature.opus
+Snap! - Rhythm is a Dancer.opus
+Tears For Fears - Shout.opus
+Vangelis - Chariots of Fire.opus
+Yeah Yeah Yeahs - Heads Will Roll.opus
+
+[Psytrance/V.A. - Set: 31]
+01 - Cosma & Silent Sphere - Moving (Ritmo Remix).opus
+02 - Shanti V Deedrah & Waio - In Orbit.opus
+03 - Symbolic & Lifeforms - One of a Kind.opus
+04 - Off Limits - Shasha.opus
+05 - Vini Vici & Astrix - Adhana.opus
+06 - Lish & Mr.What - In a Dream.opus
+07 - Ritmo & Lifeforms - Orchid.opus
+08 - Liquid Ace - Neurochemistry (Sideform Remix).opus
+09 - Coming Soon!!! - African Jungle.opus
+10 - Phanatic - Lost Generation.opus
+11 - Astrix - Dharma (Off Limits Remix).opus
+12 - ALIGN & Martin Vice - El Alma.opus
+13 - Ovnimoon & Ultimate Dimension - Planet of Drums (Alex M.O.R.P.H. & Ovnimoon Mix).opus
+14 - Ace Ventura & Ryanosaurus - Still Searching.opus
+15 - LOUD - Africa 101 (Easy Riders Remix).opus
+16 - Perfect Stranger & Liquid Soul - Our Time (Rocky Tilbor Remix).opus
+17 - Perfect Stranger - Six Feet Under (Captain Hook Remix).opus
+18 - Rocky Tilbor - Anesthetic.opus
+19 - Ticon - We Are the Mammoth Hunters (Invisible Reality Remix).opus
+V.A. - Set: 31 [Full Album].opus
 
 [Speedcore]
 Kobaryo - Magical Sanctuary.opus
 Kobaryo - Web 33,260.8.opus
+
+[Synth Wave]
+Aerds - Deadline.opus
+Moonrunner83 & Megan McDuffee - Streets.opus
+
+[Trap]
+Shawn Wasabi - HOTTO DOGU ホットドッグ.opus
 
 [UKF Drum & Bass/2012]
 001 - Rusko - Somebody To Love (Sigma Remix).opus
@@ -241,7 +543,7 @@ Kobaryo - Web 33,260.8.opus
 081 - Plan B - Lost My Way (Nu:Tone Remix).m4a
 082 - Ayah Marar - Mind Controller (ShockOne Remix).m4a
 083 - Charli XCX - You're The One (Loadstar Remix).m4a
-084 - Total Science & S.P.Y - Piano Funk (Ft. Riya & DāM FunK).m4a
+084 - Total Science & S.P.Y - Piano Funk (Ft. Riya & DāM FunK).m4a
 085 - Michael Woods - We've Only Just Begun (Ft. Ester Dean) (Calyx & Teebee Remix).m4a
 086 - Technicolour - Centrifuge.m4a
 087 - Culture Shock - I Remember.m4a
@@ -2036,4 +2338,73 @@ Kobaryo - Web 33,260.8.opus
 136 - Kompany - Blade.opus
 137 - Modestep - Higher (Oliverse Remix).opus
 138 - Datsik & Virtual Riot - Warriors of the Night.opus
+
+[Unsorted]
+2pac feat. Dr.Dre - California Love.opus
+2 Unlimited - Get Ready For This.opus
+Alexander Marcus - Papaya.opus
+America - A Horse With No Name.opus
+Antonio Vivaldi - The Four Seasons: Spring (Allegro).opus
+Bag Raiders - Shooting Stars.opus
+Basshunter - Boten Anna.opus
+Basshunter - Dota.opus
+Benny Benassi - Satisfaction.opus
+Big Shaq - Mans Not Hot.opus
+Black Eyed Peas - Boom Boom Pow.opus
+Blur - Song 2.opus
+Brutal Bass Test.opus
+Calvin Harris & Dua Lipa - One Kiss.opus
+Chamillionaire - Ridin' Dirty.opus
+Claude Debussy - Clair De Lune.opus
+Daft Punk - Robot Rock.opus
+Darude - Sandstorm.opus
+Dave Rodgers - Deja Vu.opus
+Denzel Curry - Ultimate.opus
+Die Atzen (Frauenarzt & Manny Marc) - Atzin.opus
+Die Atzen (Frauenarzt & Manny Marc) - Disco Pogo.opus
+DJ Inappropriate feat. Donald Trump - Small Loan Of A Million Dollars.opus
+DJ Mortal Kombat - Thunder.opus
+FiNCH ASOZiAL - ABFAHRT.opus
+Früch[TeKK]orb - Hacke auf Spaghetti.opus
+Gershon Kingsley - Popcorn.opus
+Gigi D'Agostino - Bla Bla Bla.opus
+Gunnar Olsen - Dat Step.opus
+Jessy Matador - Allez Ola Olé.opus
+Kevin MacLeod - Rollin at 5.opus
+Kirin J Callinan ft. Alex Cameron & Molly Lewis & Jimmy Barnes - Big Enough.opus
+Lady Gaga - Poker Face.opus
+Lil Kleine & Ronnie Flex - Stoff & Schnaps.opus
+Lipps Inc - Funkytown.opus
+Lowercase - Kid Singing in Walmart (EDM).opus
+Lumpenhere - Пгт.mp3
+Maurizio DeJorio - Running in the 90's.opus
+Max Farenthide - Number One.m4a
+Michael Gray - The Weekend.opus
+Mike Diva - Kazoo Kid Trap.opus
+O-Zone - Dragostea Din Tei (Numa Numa Iei).opus
+Papa Roach - Last Resort.opus
+Pat Benatar - Love is a Battlefield.opus
+Paul Stanley - Live to Win.m4a
+Queen - We Are The Champions.opus
+Rammstein - Radio.opus
+Scooter - How Much Is The Fish.m4a
+Scooter - Hyper Hyper.opus
+Scooter - Maria (I Like It Loud).opus
+Simon & Garfunkel - The Sound of Silence.opus
+Snow - Informer.opus
+Soulja Boy Tell'em - Crank That (Soulja Boy).m4a
+South Park - Cartman's Quest (Imaginationland Episode I).mp3
+South Park - Kanye West - Gay Fish.mp3
+Spongebob Schwammkopf feat. 9MK2 - Schokolade!.opus
+Stefan Rauch feat. Petutschnig Hons - 15er Steyr.opus
+Stereo Sayan 3D.opus
+Stromae - Alors on Dance.opus
+Stromae - Papaoutai.opus
+Sydney 7 - Dance To (I Wanna Fuck You Baby).m4a
+Vitas - Седьмой элемент.opus
+Yeah Yeah Yeahs - Heads Will Roll (Dance Till You're Dead Doggo Remix).opus
+Нейромонах Феофан — Притоптать.opus
+
+[Vee Ja Lyfe]
+Vee Ja Lyfe - Otherworld [FULL Album].m4a
 
